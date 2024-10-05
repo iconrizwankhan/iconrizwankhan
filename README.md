@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://rizwankhan.xyz/](http://rizwankhan.xyz/)
+* 🖥️  See my portfolio at [rizwankha.xyz](http://rizwankhan.xyz/)
 * ✉️  You can contact me at [code@rizwankhan.xyz](mailto:code@rizwankhan.xyz)
 * 🤝  I'm open to collaborating on Full Stack MERN projects 🚀, dynamic frontend UI/UX 🎨, scalable backend systems ⚙️, open source contributions 🌍, e-commerce apps 🛒, and Agile team development 🤝.
 
