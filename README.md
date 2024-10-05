@@ -8,7 +8,7 @@ Full Stack Web Developer
 * 🖥️  Checky my portfolio at [rizwankha.xyz](http://rizwankhan.xyz/)
 * ✉️  You can reach me at [code@rizwankhan.xyz](mailto:code@rizwankhan.xyz)
 * 🤝  I'm open to collaborating on Full Stack MERN projects 🚀, dynamic frontend UI/UX 🎨, scalable backend systems ⚙️, open source contributions 🌍, e-commerce apps 🛒.
-
+<center>
 <a href="https://www.github.com/iconrizwankhan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iconrizwankhan?logo=github&style=for-the-badge&color=14b8a6&labelColor=134e4a" /></a>
 
@@ -27,3 +27,4 @@ src="https://img.shields.io/github/followers/iconrizwankhan?logo=github&style=fo
 <a href="http://www.github.com/iconrizwankhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iconrizwankhan&stroke=14b8a6&background=134e4a&ring=0f172a&fire=0f172a&currStreakNum=14b8a6&currStreakLabel=0f172a&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 <a href="https://github.com/iconrizwankhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iconrizwankhan&langs_count=10&title_color=0f172a&text_color=14b8a6&icon_color=14b8a6&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</center>
