@@ -56,15 +56,21 @@
 
 ### 🔥 GitHub Stats:
 <p align="center">
-  <a href="http://www.github.com/iconrizwankhan">
-    <img src="https://github-readme-stats.vercel.app/api?username=iconrizwankhan&show_icons=true&count_private=true&title_color=0f172a&text_color=14b8a6&icon_color=14b8a6&bg_color=134e4a&hide_border=true&show_icons=true" alt="Rizwan's GitHub stats" />
-  </a>
-  <a href="http://www.github.com/iconrizwankhan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iconrizwankhan&stroke=14b8a6&background=134e4a&ring=0f172a&fire=0f172a&currStreakNum=14b8a6&currStreakLabel=0f172a&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <div>
   <a href="https://github.com/iconrizwankhan" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iconrizwankhan&langs_count=10&title_color=0f172a&text_color=14b8a6&icon_color=14b8a6&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
+  </div>
+  <div>
+  <a href="http://www.github.com/iconrizwankhan">
+    <img src="https://github-readme-stats.vercel.app/api?username=iconrizwankhan&show_icons=true&count_private=true&title_color=0f172a&text_color=14b8a6&icon_color=14b8a6&bg_color=134e4a&hide_border=true&show_icons=true" alt="Rizwan's GitHub stats" />
+  </a>
+  </div>
+  <div>
+  <a href="http://www.github.com/iconrizwankhan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iconrizwankhan&stroke=14b8a6&background=134e4a&ring=0f172a&fire=0f172a&currStreakNum=14b8a6&currStreakLabel=0f172a&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" alt="GitHub Streak" />
+  </a>
+  </div>
 </p>
 
 ---
