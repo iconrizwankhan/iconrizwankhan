@@ -55,7 +55,8 @@
 ---
 
 ### 🔥 GitHub Stats:
-<p align="center">
+  <center>
+<p>
   <div>
   <a href="https://github.com/iconrizwankhan" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iconrizwankhan&langs_count=10&title_color=0f172a&text_color=14b8a6&icon_color=14b8a6&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
@@ -72,6 +73,8 @@
   </a>
   </div>
 </p>
+</center>
+
 
 ---
 
